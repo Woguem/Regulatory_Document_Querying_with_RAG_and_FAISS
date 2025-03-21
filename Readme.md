@@ -1,0 +1,1 @@
+This repository contains a project that uses LangChain to implement Retrieval-Augmented Generation (RAG) with FAISS to query and retrieve relevant information from a database.
