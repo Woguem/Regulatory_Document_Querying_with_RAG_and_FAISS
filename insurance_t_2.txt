@@ -1,0 +1,183 @@
+Skip to main content
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+An official website of the European UnionHow do you know?
+Logo
+English
+Search
+
+Search
+Home
+About
+
+Browse by topic
+
+For consumers
+Tools and data
+
+Document Library
+
+Media
+
+Home
+Tools and data
+Insurance statistics
+Insurance statistics
+EIOPA provides statistical data on insurance undertakings and groups in the EU and the European Economic Area (EEA).
+
+The statistics contain aggregated country level information about balance sheet, own funds, premiums, claims and expenses, asset exposures, use of transitional and LTG measures.
+
+To the Frequently Asked Questions
+
+ 
+
+Occupational pensions statistics
+Page contents
+Balance sheet
+Own funds
+Premiums, claims and expenses
+Asset exposures
+Use of transitional and LTG measures
+Cross-border premiums
+European Insurance Overview
+Capital add-ons
+Previous statistical releases
+Latest release which included the UK
+Indicators from financial stability reporting
+Statistical time series (2005-2015) based on Solvency II
+Legal disclaimer
+Balance sheet
+
+ 
+
+Quick download:
+
+Entity Level	Frequency	Data	Note
+Solo	Quarterly	| xlsx | csv |	| xlsx | pdf |
+Solo	Annual	| xlsx | csv |	| xlsx | pdf |
+Group	Quarterly	| xlsx | csv |	| xlsx | pdf |
+Group	Annual	| xlsx | csv |	| xlsx | pdf
+Note: The balance sheet statistics follow the Solvency II template S.02.01 (please see the annotated reporting templates). The statistics provide the aggregate Solvency II values for each item in the balance sheet. For information and explanation of each individual item, please refer to the QRT instruction files.
+
+Own funds
+
+Quick download:
+
+Entity Level	Frequency	Data	Note
+Solo	Quarterly	| xlsx | csv |	| xlsx | pdf |
+Solo	Annual	| xlsx | csv |	| xlsx | pdf |
+Group	Quarterly	| xlsx | csv |	| xlsx | pdf |
+Group	Annual	| xlsx | csv |	| xlsx | pdf |
+Note: The own fund statistics provide an extract of key data items from the Solvency II template S.23.01 (please see the annotated reporting templates). For information and explanation of each individual item, please refer to the QRT instruction files.
+
+Premiums, claims and expenses
+
+ 
+
+Quick download:
+
+Entity Level	Frequency	Data	Note
+Solo	Quarterly	| xlsx | csv |	| xlsx | pdf |
+Solo	Annual	| xlsx | csv |	| xlsx | pdf |
+Group	Quarterly	| xlsx | csv |	| xlsx | pdf |
+Group	Annual	| xlsx | csv |	| xlsx | pdf |
+Note: The statistics on premiums, claims and expenses provide an extract of key data items from the Solvency II template S.05.01 (please see the annotated reporting templates). For information and explanation of each individual item, please refer to the QRT instruction files.
+
+Asset exposures
+Entity Level	Frequency	Available reference dates	Available aggregations	Data
+Solo	Quarterly	Q4 2017 - Q3 2024	By country	| xlsx |
+Note: The statistics on asset exposures provide aggregated data based on the Solvency II reporting template S.06.02 (please see the annotated reporting templates). For information and explanation of each individual item, please refer to the QRT instruction files.
+
+Use of transitional and LTG measures
+Entity Level	Frequency	Available reference dates	Available aggregations	Data
+Solo	Annual	2017-2023	By country	| xlsx |
+Note: The statistics on transitional and LTG measures provide aggregated data based on the Solvency II reporting template S.22.01 (please see the annotated reporting templates). For information and explanation of each individual item, please refer to the QRT instruction files.
+
+Cross-border premiums
+Entity Level	Frequency	Available reference dates	Available aggregations	Data
+Solo	Annual	2023	By country	| xlsx |
+Solo	Annual	Before 2023	By country	| xlsx |
+Note: The statistics on cross border activity provide aggregate data based on Solvency II reporting for cross border premiums. For further details please see the FAQ and the QRT instruction files.
+
+European Insurance Overview
+The Annual European Insurance Overview is published by EIOPA as an extension of its statistical services in order to provide an easy-to-use and accessible overview of the European insurance sector. The report is based on annually reported Solvency II information. This ensures that the data has a high coverage in all countries and is reported in a consistent manner across the EEA. 
+
+Entity Level	Frequency	Available reference dates	Data	Report
+Solo	Annual	2023	| xlsx |	| digital report|
+Capital add-ons
+EIOPA is requested to report annually to EU institutions (i.e. European Parliament, the Council and the Commission) the capital add-ons to insurance and reinsurance undertakings or groups by National Competent Authorities, following their supervisory review process, in accordance with Article 52 of the Solvency II Directive.
+
+Capital add-ons reported are those imposed pursuant to the Article 37 of Solvency II Directive and Articles 276 - 287 of Delegated Regulation (EU) 2015/35. 
+
+EIOPA has prepared the statistical table on the use of capital add-ons in the European Economic Area (EEA) based on 2023 year-end Solvency II data as reported by the undertakings and insurance groups via the Solvency II Quantitative Reporting Templates (QRTs). 
+
+The statistical update consists of a Dashboard and an Excel file containing all the available data.
+
+Type	Entity Level	Frequency	Available reference dates	Available aggregations	Data
+Capital add-ons	Solo and Group	Annual	2017-2023	EEA and country	| xlsx | html
+Previous statistical releases
+The historical data series are updated with every new statistical release. Changes in historical series generally stem from corrections and resubmissions from (re)insurance undertakings and groups. As the information contained in previous releases may differ from the most recent release of historical data, the previous statistical release is available below. 
+
+Entity Level	Frequency	Previous release
+Solo	Quarterly	| zip |
+Solo	Annual	| zip |
+Solo	European Insurance Overview	| zip |
+Group	Annual	| zip |
+Group	Quarterly	| zip |
+Latest release which included the UK
+Data from the United Kingdom is no longer included in datasets with reference dates after 2020. The latest release which included the UK is available for download below, but is no longer updated or maintained.
+
+Entity Level	Frequency	Previous release
+Solo	Quarterly until 2020 Q4	| zip |
+Indicators from financial stability reporting
+Large insurers (groups and solos not belonging to a group that reports for financial stability purposes) report according to the Guidelines on Financial Stability Reporting (link). The indicators below are based on this reporting.
+
+Type	Entity level	Frequency	Avail. reference dates	Avail. reference years	Available aggregations	Data
+Profitability and duration	FS-reporting solo and groups	Annual	Q4	2016 - 2023	EEA	| xlsx |
+Statistical time series (2005-2015) based on Solvency II
+Download statistical time series (2005-2015).
+
+Note that the former statistical annex to the EIOPA Financial Stability Report is no longer maintained or updated.
+
+Legal disclaimer
+While the statistical information published on this website is based on sources considered reliable, EIOPA does not guarantee its completeness, accuracy or adequacy. Therefore it may be necessary for EIOPA to amend and/or update the statistical information after it has been published. EIOPA accepts no responsibility or liability whatsoever resulting from the use of the information provided. For more information, go to Legal notice.
+
+The EIOPA Statistics section uses integration with Microsoft PowerBI which is hosted on Microsoft Azure. Data necessary to run the service, diagnostic data and service generated data will be transferred to Microsoft. Such data may include information related to the operation of the connected experience that is needed to keep the underlying service secure, up to date, and performing as expected. It may also include data about service performance, device connectivity, and configuration. Microsoft pseudonymizes and aggregates such data, which is used to make sure performance, security, scaling, and other services that impact the experience. More information can be found here. No other personal data is collected or transferred to Microsoft.
+
+Related resources
+
+Frequently asked questions
+Related content
+Occupational pensions statistics
+Occupational pensions statistics
+Adobestock_data_model
+Supervisory reporting - DPM and XBRL
+Share this page
+
+X
+Facebook
+LinkedIn
+E-mail
+More share options
+European Insurance and Occupational Pensions Authority
+Contact us
+Complaints
+Ask a regulatory question
+Organise a visit at EIOPA
+Subscribe to our newsletter
+Follow us
+Linkedin
+X
+YouTube
+About us
+Whistleblowing
+Cookies
+Legal notice
+Related sites
+Extranet
+EBA
+ESMA
+ESRB
+CEIOPS Archive
