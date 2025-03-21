@@ -51,10 +51,10 @@ embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L
 faiss_index = FAISS.from_documents(docs, embedding)
 
 # Save index for future use
-faiss_index.save_local("mon_index_faiss")
+faiss_index.save_local("My_FAISS_Index")
 
 # Loading the FAISS index
-faiss_index = FAISS.load_local("mon_index_faiss", embeddings=embedding, allow_dangerous_deserialization=True) # FAISS : Facebook AI Similarity Search
+faiss_index = FAISS.load_local("My_FAISS_Index", embeddings=embedding, allow_dangerous_deserialization=True) # FAISS : Facebook AI Similarity Search
 
 retrieved_docs = faiss_index.similarity_search("What are the latest regulatory updates on insurance?", k=3)
 
